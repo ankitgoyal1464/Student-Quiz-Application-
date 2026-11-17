@@ -1,0 +1,27 @@
+
+# Student Quiz Application
+
+## Project Description
+Student Quiz Application is a simple Python-based
+quiz project that tests students' basic programming
+knowledge.
+
+## Features
+- Student name input
+- Multiple-choice questions
+- Automatic answer checking
+- Score calculation
+- Percentage calculation
+- Grade generation
+
+## Technology Used
+- Python
+
+## How to Run
+1. Install Python.
+2. Download quiz.py.
+3. Open terminal.
+4. Run: python quiz.py
+
+## Developed By
+Ankit Goyal
